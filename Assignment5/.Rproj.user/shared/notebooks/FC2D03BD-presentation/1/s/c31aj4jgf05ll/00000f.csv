@@ -1,0 +1,6 @@
+"0","#| label: tbl-summary-stats"
+"0","#| tbl-cap: ""Summary Statistics for Key Development Indicators (2022)."""
+"0",""
+"0","summary_table = df[['gdp_per_capita', 'life_expectancy', 'education_expenditure_gdp_share']].describe().round(2)"
+"0","summary_table"
+"0",""

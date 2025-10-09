@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+/* You can override default variables here if needed */
+
+/*-- scss:rules --*/
+.reveal {
+  font-size: 28px;             /* Slightly smaller base font */
+  line-height: 1.3;
+}
+
+.reveal h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #073642;
+}
+
+.reveal h2 {
+  font-size: 38px;
+  color: #586e75;
+}
+
+.reveal p, .reveal li {
+  font-size: 26px;
+  color: #002b36;
+}
+
+.reveal strong {
+  color: #b58900;              /* Accent gold for emphasis */
+}
+
+.reveal section {
+  padding: 0 40px;             /* Adds breathing room */
+}
+
+.reveal table {
+  font-size: 22px;
+}
