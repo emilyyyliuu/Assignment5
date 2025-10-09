@@ -1,0 +1,3 @@
+"0","# Summary statistics for three indicators"
+"0","df[['gdp_per_capita', 'life_expectancy', 'education_expenditure_gdp_share']].describe()"
+"0",""

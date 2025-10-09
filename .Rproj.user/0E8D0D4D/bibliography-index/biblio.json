@@ -1,0 +1,45 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Bank",
+                    "given": "World"
+                }
+            ],
+            "id": "worldbank2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "note": "Accessed October 2025",
+            "publisher": "https://databank.worldbank.org/source/world-development-indicators",
+            "title": "World development indicators database",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "dropping-particle": "for",
+                    "family": "Statistics",
+                    "given": "UNESCO Institute"
+                }
+            ],
+            "id": "unesco2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "publisher": "https://uis.unesco.org/en/topic/education-finance",
+            "title": "Education expenditure as a share of GDP, 2023 update",
+            "type": "article-journal"
+        }
+    ],
+    "project_biblios": []
+}
