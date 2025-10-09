@@ -1,2 +1,14 @@
-/.quarto/
-**/*.quarto_ipynb
+# macOS & RStudio
+.DS_Store
+.Rhistory
+.Rproj.user/
+
+# Quarto build artifacts
+*_files/
+_output/
+*.log
+*.tex
+
+# Python & Jupyter
+__pycache__/
+.ipynb_checkpoints/
