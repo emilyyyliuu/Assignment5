@@ -12,3 +12,4 @@ _output/
 # Python & Jupyter
 __pycache__/
 .ipynb_checkpoints/
+.quarto/
