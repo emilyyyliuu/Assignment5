@@ -1,4 +1,4 @@
 
-- **Report (HTML):** [View here](https://emilyyyliuu.github.io/Assignment5/Assignment05.html)
-- **Presentation (HTML):** [View here](https://emilyyyliuu.github.io/Assignment5/presentation.html)
-- **Presentation (PDF):** [Download here](https://emilyyyliuu.github.io/Assignment5/presentation.pdf)
+- **Report (HTML):** [View here](https://emilyyyliuu.github.io/Assignment5/_output/Assignment05.html)
+- **Presentation (HTML):** [View here](https://emilyyyliuu.github.io/Assignment5/_output/presentation.html)
+- **Presentation (PDF):** [Download here](https://emilyyyliuu.github.io/Assignment5/_output/presentation.pdf)
