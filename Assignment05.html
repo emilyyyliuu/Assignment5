@@ -143,7 +143,7 @@ These metrics together illustrate economic performance, human development, and p
 </section>
 <section id="summary-statistics" class="level2">
 <h2 class="anchored" data-anchor-id="summary-statistics">2. Summary Statistics</h2>
-<div id="6ee3868c" class="cell" data-message="false" data-results="hide" data-execution_count="1">
+<div id="6d25ca41" class="cell" data-message="false" data-results="hide" data-execution_count="1">
 <div class="cell-output cell-output-stdout">
 <pre><code>Requirement already satisfied: pandas in /opt/miniconda3/lib/python3.13/site-packages (2.3.1)
 Requirement already satisfied: numpy&gt;=1.26.0 in /opt/miniconda3/lib/python3.13/site-packages (from pandas) (2.3.1)
@@ -191,7 +191,7 @@ Requirement already satisfied: urllib3&lt;3,&gt;=1.21.1 in /opt/miniconda3/lib/p
 Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/miniconda3/lib/python3.13/site-packages (from requests&lt;3,&gt;=2.0-&gt;wbdata) (2025.4.26)</code></pre>
 </div>
 </div>
-<div id="c1516f52" class="cell" data-execution_count="2">
+<div id="32777fc1" class="cell" data-execution_count="2">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Define the indicators to download</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>indicators <span class="op">=</span> {</span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    <span class="st">'gdp_per_capita'</span>: <span class="st">'NY.GDP.PCAP.CD'</span>,</span>
@@ -264,7 +264,7 @@ Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/miniconda3/lib/pyth
 2           76.129        45477389.0  </code></pre>
 </div>
 </div>
-<div id="d753561d" class="cell" data-execution_count="3">
+<div id="f191629d" class="cell" data-execution_count="3">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Summary statistics for three indicators</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>df[[<span class="st">'gdp_per_capita'</span>, <span class="st">'life_expectancy'</span>, <span class="st">'education_expenditure_gdp_share'</span>]].describe()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <div class="cell-output cell-output-display" data-execution_count="3">
