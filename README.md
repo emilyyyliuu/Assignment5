@@ -1,4 +1,5 @@
+## QTM350-Assignment5
 
-- **Report (HTML):** [View here](https://emilyyyliuu.github.io/Assignment5/_output/Assignment05.html)
-- **Presentation (HTML):** [View here](https://emilyyyliuu.github.io/Assignment5/_output/presentation.html)
-- **Presentation (PDF):** [Download here](https://emilyyyliuu.github.io/Assignment5/_output/presentation.pdf)
+- **Report HTML:** [https://emilyyyliuu.github.io/Assignment5/Assignment05.html](https://emilyyyliuu.github.io/Assignment5/Assignment05.html)
+- **Presentation HTML:** [https://emilyyyliuu.github.io/Assignment5/presentation.html](https://emilyyyliuu.github.io/Assignment5/presentation.html)
+- **Report PDF:** [https://emilyyyliuu.github.io/Assignment5/presentation.pdf](https://emilyyyliuu.github.io/Assignment5/presentation.pdf)
