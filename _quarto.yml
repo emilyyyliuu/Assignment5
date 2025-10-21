@@ -1,6 +1,6 @@
 project:
   type: default
-  output-dir: .
+  output-dir: _output
   resources:
     - references.bib
 
@@ -21,6 +21,3 @@ formats:
     slide-number: true
     transition: fade
     code-overflow: wrap
-
-execute:
-  python: /opt/miniconda3/bin/python
